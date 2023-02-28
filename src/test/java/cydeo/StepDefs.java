@@ -1,5 +1,4 @@
 package cydeo;
-
 import static org.junit.Assert.fail;
 
 import io.cucumber.java.After;
